@@ -1,5 +1,5 @@
 {
-    "name": "graham-campbell/markdown",
+    "name": "cjmartino/Laravel-Markdown",
     "description": "Markdown Is A CommonMark Wrapper For Laravel 5",
     "keywords": ["laravel", "framework", "markdown", "commonmark", "common mark", "Laravel Markdown", "Laravel-Markdown", "Graham Campbell", "GrahamCampbell"],
     "license": "MIT",
